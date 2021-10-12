@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++-5"
+	BuildStamp="20201015-0555-Experimental"
+	Name="yflyh"
+	Generator="ctest-3.18.1"
+	CompilerName="/usr/bin/g++-5"
+	CompilerVersion="5.4.0"
+	OSName="Linux"
+	Hostname="yflyh"
+	OSRelease="4.4.0-190-generic"
+	OSVersion="#220-Ubuntu SMP Fri Aug 28 23:02:15 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8092"
+	TotalPhysicalMemory="7883"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2399.98"
+	>
+	<Testing>
+		<StartDateTime>Oct 15 13:55 CST</StartDateTime>
+		<StartTestTime>1602741324</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 15 13:55 CST</EndDateTime>
+		<EndTestTime>1602741324</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

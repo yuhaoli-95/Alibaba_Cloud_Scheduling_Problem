@@ -1,0 +1,1 @@
+/usr/bin/g++-5 -O3 -DNDEBUG -rdynamic CMakeFiles/scorer.dir/code/scorer.cpp.o -o scorer 

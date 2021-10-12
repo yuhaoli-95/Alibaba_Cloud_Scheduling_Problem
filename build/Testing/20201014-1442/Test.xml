@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++-7"
+	BuildStamp="20201014-1442-Experimental"
+	Name="DESKTOP-HF7NQVG"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/g++-7"
+	CompilerVersion="7.5.0"
+	OSName="Linux"
+	Hostname="DESKTOP-HF7NQVG"
+	OSRelease="4.4.0-18362-Microsoft"
+	OSVersion="#1049-Microsoft Thu Aug 14 12:01:00 PST 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="256"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="24576"
+	TotalPhysicalMemory="8065"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2801"
+	>
+	<Testing>
+		<StartDateTime>Oct 14 23:57 CST</StartDateTime>
+		<StartTestTime>1602691030</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 14 23:57 CST</EndDateTime>
+		<EndTestTime>1602691030</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

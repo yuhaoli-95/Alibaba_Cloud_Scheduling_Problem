@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/scorer.dir/code/scorer.cpp.o -c /home/lyh/Desktop/tianchi/code/scorer.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/scorer.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/main.cpp.o -c /home/lyh/Desktop/tianchi/code/main.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/main.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/input_data.cpp.o -c /home/lyh/Desktop/tianchi/code/input_data.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/input_data.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/check_file_encoding.cpp.o -c /home/lyh/Desktop/tianchi/code/check_file_encoding.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/check_file_encoding.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/tools.cpp.o -c /home/lyh/Desktop/tianchi/code/tools.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/tools.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/get_bounds.cpp.o -c /home/lyh/Desktop/tianchi/code/get_bounds.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/get_bounds.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/iniltialization.cpp.o -c /home/lyh/Desktop/tianchi/code/iniltialization.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/iniltialization.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/optimize_sigma.cpp.o -c /home/lyh/Desktop/tianchi/code/optimize_sigma.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/optimize_sigma.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/evaluation_model/process_task.cpp.o -c /home/lyh/Desktop/tianchi/code/evaluation_model/process_task.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/evaluation_model/process_task.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/evaluation_model/fitness.cpp.o -c /home/lyh/Desktop/tianchi/code/evaluation_model/fitness.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/evaluation_model/fitness.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/evaluation_model/calculate_score.cpp.o -c /home/lyh/Desktop/tianchi/code/evaluation_model/calculate_score.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/evaluation_model/calculate_score.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/multi_local_search/local_search.cpp.o -c /home/lyh/Desktop/tianchi/code/multi_local_search/local_search.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/multi_local_search/local_search.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/multi_local_search/k_opt_mutation.cpp.o -c /home/lyh/Desktop/tianchi/code/multi_local_search/k_opt_mutation.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/multi_local_search/k_opt_mutation.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/multi_local_search/k_opt_swap.cpp.o -c /home/lyh/Desktop/tianchi/code/multi_local_search/k_opt_swap.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/multi_local_search/k_opt_swap.cpp"
+},
+{
+  "directory": "/home/lyh/Desktop/tianchi/build",
+  "command": "/usr/bin/g++-5   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/tianchi.dir/code/multi_local_search/is_find_better.cpp.o -c /home/lyh/Desktop/tianchi/code/multi_local_search/is_find_better.cpp",
+  "file": "/home/lyh/Desktop/tianchi/code/multi_local_search/is_find_better.cpp"
+}
+]
