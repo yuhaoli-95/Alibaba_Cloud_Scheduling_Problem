@@ -12,7 +12,7 @@ author: 李宇豪(Yuhao Li)   email: yuhaoli95@outlook.com
 
 初赛: 16
 
-复赛: 16
+复赛: 13
 
 ## 比赛业务场景描述
 
