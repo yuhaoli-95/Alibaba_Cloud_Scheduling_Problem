@@ -5,7 +5,14 @@
 > *ICSI 2021*  
 
 author: 李宇豪(Yuhao Li)   email: yuhaoli95@outlook.com
-[TOC]
+
+[比赛官网](https://tianchi.aliyun.com/competition/entrance/531831/introduction?spm=5176.12281925.0.0.72d36bfa3LOXw7)
+
+成绩
+
+初赛: 16
+
+复赛: 16
 
 ## 比赛业务场景描述
 
